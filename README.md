@@ -1,0 +1,1 @@
+Simply provide image with preinstalled /app workdir, so it can be used in gitlab ci, where all node_modules directories are viped
