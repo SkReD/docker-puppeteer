@@ -1,1 +1,1 @@
-Simply provide image with preinstalled /app workdir, so it can be used in gitlab ci, where all node_modules directories are viped
+Image with puppeteer installed at root, and workdir at /app so when used in pipeline with node_modules artifacts at root puppeteer installation wont deleted at initialization
